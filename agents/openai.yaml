@@ -1,0 +1,4 @@
+interface:
+  display_name: "亚马逊产品二筛"
+  short_description: "结合市场、竞品与历史资料完成可降级且有置信度标注的第二轮筛选"
+  default_prompt: "使用 $amazon-product-second-pass 分析我提供的市场与竞品资料，完成第二轮筛选。"
